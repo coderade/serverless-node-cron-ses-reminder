@@ -1,0 +1,5 @@
+service: serverless-node-cron-ses-reminder
+
+provider:
+  name: aws
+  runtime: nodejs6.10
